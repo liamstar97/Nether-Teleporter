@@ -1,0 +1,23 @@
+[debug] Calculate mappings...
+[debug] Checking every *.class/*.jar file's SHA-1.
+[debug] Merging files...
+[debug] SHA-1: 69e3017d77b6f9e5365cdace68468129a066aba4
+[info] Packaging E:\MinecraftSandbox\netherteleporter\target\scala-2.13\NetherTeleporter-1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	com\github\liamstar97\netherteleporter\Home$.class
+[debug] 	  E:\MinecraftSandbox\netherteleporter\target\streams\$global\assemblyOption\$global\streams\assembly\692683100d0fd9269294c6e65f199ecbd82e73d9_dir\com\github\liamstar97\netherteleporter\Home$.class
+[debug] 	com\github\liamstar97\netherteleporter\Home.class
+[debug] 	  E:\MinecraftSandbox\netherteleporter\target\streams\$global\assemblyOption\$global\streams\assembly\692683100d0fd9269294c6e65f199ecbd82e73d9_dir\com\github\liamstar97\netherteleporter\Home.class
+[debug] 	com\github\liamstar97\netherteleporter\HomeExecutor$.class
+[debug] 	  E:\MinecraftSandbox\netherteleporter\target\streams\$global\assemblyOption\$global\streams\assembly\692683100d0fd9269294c6e65f199ecbd82e73d9_dir\com\github\liamstar97\netherteleporter\HomeExecutor$.class
+[debug] 	com\github\liamstar97\netherteleporter\HomeExecutor.class
+[debug] 	  E:\MinecraftSandbox\netherteleporter\target\streams\$global\assemblyOption\$global\streams\assembly\692683100d0fd9269294c6e65f199ecbd82e73d9_dir\com\github\liamstar97\netherteleporter\HomeExecutor.class
+[debug] 	com\github\liamstar97\netherteleporter\NetherTeleporterPlugin$.class
+[debug] 	  E:\MinecraftSandbox\netherteleporter\target\streams\$global\assemblyOption\$global\streams\assembly\692683100d0fd9269294c6e65f199ecbd82e73d9_dir\com\github\liamstar97\netherteleporter\NetherTeleporterPlugin$.class
+[debug] 	com\github\liamstar97\netherteleporter\NetherTeleporterPlugin.class
+[debug] 	  E:\MinecraftSandbox\netherteleporter\target\streams\$global\assemblyOption\$global\streams\assembly\692683100d0fd9269294c6e65f199ecbd82e73d9_dir\com\github\liamstar97\netherteleporter\NetherTeleporterPlugin.class
+[debug] 	com\github\liamstar97\netherteleporter\PlayerJoinListener$.class
+[debug] 	  E:\MinecraftSandbox\netherteleporter\target\streams\$global\assemblyOption\$global\streams\assembly\692683100d0fd9269294c6e65f199ecbd82e73d9_dir\com\github\liamstar97\netherteleporter\PlayerJoinListener$.class
+[debug] 	com\github\liamstar97\netherteleporter\PlayerJoinListener.class
+[debug] 	  E:\MinecraftSandbox\netherteleporter\target\streams\$global\assemblyOption\$global\streams\assembly\692683100d0fd9269294c6e65f199ecbd82e73d9_dir\com\github\liamstar97\netherteleporter\PlayerJoinListener.class
+[info] Done packaging.
