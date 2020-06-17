@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A Demo Scala Plugin
 
 ## Prerequisites
@@ -12,3 +13,7 @@ The plugin will depend on [ScalaLoader](https://github.com/Jannyboy11/ScalaPlugi
 
 ## Deploying
 Now that the jar is generated, drop [ScalaLoader](https://www.spigotmc.org/resources/scalaloader.59568/) into the <server_root>/plugins folder, and drop the Scala plugin in the <server_root>/plugins/ScalaLoader/scalaplugins folder.
+=======
+# Nether-Teleporter
+This plugin banishes you to the nether
+>>>>>>> f3367476a5f2b9ad096824b4e8b4cad6384ee870
